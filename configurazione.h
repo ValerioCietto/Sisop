@@ -1,0 +1,3 @@
+#define NUMERO_ACCESSI 10
+#define TEMPO_APERTURA 20
+#define NUMERO_REPARTI 2
