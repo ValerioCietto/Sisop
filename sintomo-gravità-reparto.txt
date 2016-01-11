@@ -1,0 +1,30 @@
+fratture cranio,10,0
+costole fratturate,9,0
+frattura spina dorsale,8
+gamba rotta,7,0
+braccio rotto,6,0
+spalla lussata,5,0
+mascella lussata,4,0
+frattura piede,3,0
+caviglia slogata,2,0
+dito rotto,1,0
+ictus,10,1
+emorragia grave,9,1
+emorragia,8,1
+vomito,7,1
+mal di testa,6,1
+diarrea,5,1
+mal di pancia,4,1
+raffreddore,3,1
+singhiozzo,2,1
+tosse,1,1
+arresto cardiaco,10,2
+arresto respiratorio,9,2
+overdose medicinali,8,2
+appendicite,7,2
+spina in gola,6,2
+avvelenamento,5,2
+febbre alta,4,2
+morso gatto,3,2
+spine,2,2
+unghia incarnita,1,2
