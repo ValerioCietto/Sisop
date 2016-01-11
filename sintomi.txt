@@ -1,4 +1,3 @@
-ortopedia
 fratture cranio
 costole fratturate
 frattura spina dorsale
@@ -9,8 +8,6 @@ mascella lussata
 frattura piede
 caviglia slogata
 dito rotto
-
-medicina generale
 ictus
 emorragia grave
 emorragia 
@@ -21,8 +18,6 @@ mal di pancia
 raffreddore
 singhiozzo
 tosse
-
-chirurgia
 arresto cardiaco
 arresto respiratorio
 overdose medicinali
