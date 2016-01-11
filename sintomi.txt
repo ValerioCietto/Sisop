@@ -1,0 +1,35 @@
+ortopedia
+fratture cranio
+costole fratturate
+frattura spina dorsale
+gamba rotta
+braccio rotto
+spalla lussata
+mascella lussata
+frattura piede
+caviglia slogata
+dito rotto
+
+medicina generale
+ictus
+emorragia grave
+emorragia 
+vomito
+mal di testa
+diarrea
+mal di pancia
+raffreddore
+singhiozzo
+tosse
+
+chirurgia
+arresto cardiaco
+arresto respiratorio
+overdose medicinali
+appendicite
+spina in gola
+avvelenamento
+febbre alta
+morso gatto
+spine
+unghia incarnita
