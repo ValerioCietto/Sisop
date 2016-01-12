@@ -1,6 +1,6 @@
 fratture cranio,10,0
 costole fratturate,9,0
-frattura spina dorsale,8
+frattura spina dorsale,8,0
 gamba rotta,7,0
 braccio rotto,6,0
 spalla lussata,5,0
