@@ -90,6 +90,37 @@ void strip(char *s) {
     }
     *p2 = '\0';
 }
+char* getSintomoRandom(int seed){
+    FILE *fp;
+    char *sint;
+    char *line = NULL;
+    size_t len = 0;
+    size_t read;
+    int rnd;
+    int indice =0;
+
+    fp = fopen(SINTOMI, "r");
+    if(fp==NULL){
+    	printf("non trovo il file");
+        exit(EXIT_FAILURE);
+    }
+    srand(time(NULL)+seed);
+    rnd = rand() % RIGHE;			 		//scelgo casualmente il sintomo
+
+
+    while (((read = getline(&line, &len, fp)) != -1) && indice<rnd){
+ 	   indice++;
+    }
+
+
+    sint= (char*)malloc(sizeof(char)*(read));
+    strcpy(sint,line);
+
+    fclose(fp);
+    if (line)
+        free(line);
+    return sint;
+}
 
 typedef void (*sighandler)(int);
 int aperto=1;
